@@ -57,7 +57,7 @@ concurrently combining responsibility as an Internal tools Developer (technologi
 * _Languages_ -- Bash/Python/Perl/SQL; PL-SQL/PHP/JavaScript/Lua/C (limited debugging)
 
 ## Other Activities
-* 2008-2011 -- Translator of few OpenSource (GNU/Linux) software projects. E.g.:
+* 2008-2011 -- Translator of few Open Source (GNU/Linux) software projects:
   * [newsbeuter](https://github.com/akrennmair/newsbeuter)
   * gajim
   * Cool-Reader (Android)
