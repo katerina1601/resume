@@ -1,2 +1,2 @@
 # github-cv
-CV in GitHub Markdown
+[My CV](CV.md) in GitHub Markdown
