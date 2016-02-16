@@ -48,13 +48,13 @@ concurrently combining responsibility as an Internal tools Developer (technologi
 * English -- _Advanced_
 
 ## Technical Skills
-* Platforms -- Linux, Windows, BSD*
-* Networking -- Basic understanding of TCP/IP, UDP, ICMP OpenSSH
-* Tools -- Vim, SSH, Git
-* Monitoring Systems -- Zabbix, Nimbus, Nagios (support/administration)
-* Application Platforms -- JIRA/Confluence/Crowd; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
-* Databases -- Limited experience with MySQL, DB2. Currently working with Oracle databases (as SQL Dev)
-* Languages -- Bash/Python/Perl/SQL; PL-SQL/PHP/JavaScript/Lua/C (limited debugging)
+* _Platforms_ -- Linux, OS X, Windows, BSD*
+* _Networking_ -- Basic understanding of TCP/IP, UDP, ICMP
+* _Tools_ -- Vim, SSH, Git
+* _Monitoring Systems_ -- Zabbix, Nimbus, Nagios (support/administration)
+* _Application Platforms_ -- JIRA/Confluence/Crowd; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
+* _Databases_ -- Limited experience with MySQL, DB2. Currently working with Oracle databases (as SQL Dev)
+* _Languages_ -- Bash/Python/Perl/SQL; PL-SQL/PHP/JavaScript/Lua/C (limited debugging)
 
 ## Other Activities
-* 2008-2011 -- Translator of few OpenSource (GNU/Linux) software projects. E.g.: newsbeuter, gajim, Cool- Reader (Android), GNU core utilities, pacman (package manager for ArchLinux)
+* 2008-2011 -- Translator of few OpenSource (GNU/Linux) software projects. E.g.: [newsbeuter](https://github.com/akrennmair/newsbeuter), gajim, Cool-Reader (Android), GNU core utilities, pacman (package manager for ArchLinux)
