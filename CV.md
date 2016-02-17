@@ -58,7 +58,7 @@ concurrently combining responsibility as an Internal tools Developer
 * _Monitoring Systems_ -- Zabbix, Nimbus, Nagios (support/administration)
 * _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
 * _Databases_ -- Limited experience with MySQL, DB2. Currently working with Oracle databases (as SQL Dev)
-* _Languages_ -- Bash/Python/Perl/SQL; PL-SQL/PHP/JavaScript/Lua/C (limited debugging)
+* _Languages_ -- Bash/Python/Perl/Ruby/SQL; PL-SQL/PHP/JavaScript/Lua/C (limited debugging)
 
 ## Other Activities
 * 2008-2011 -- Translator of few Open Source (GNU/Linux) software projects:
