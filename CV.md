@@ -1,10 +1,12 @@
 # Ivan Kovnatsky
 
 ## Summary
-Interested in constant growth. Eager to dig into problems and diverse issues. 
-Working well by myself and also in a team. Have over 5 years experience in Linux/UNIX support/administration
-and related services. 1.5 year experience in administering applications based on Java (mostly Atlassian products),
-concurrently combining responsibility as an Internal tools Developer (technologies used: SQL/Perl/PHP/PL-SQL).
+Interested in constant growth. Eager to dig into problems and diverse issues.
+Working well by myself and also in a team. Have over 6+ years experience in
+Linux/UNIX support/administration and related services. 2+ years experience in
+administering applications based on Java (mostly Atlassian products),
+concurrently combining responsibility as an Internal tools Developer
+(technologies used: SQL/Perl/PHP/PL-SQL).
 
 ## Education
 * 2013-2013 -- _Certification_, “IBM Corporation”. Subject: **IBM Certified System Administrator WebSphere Commerce V7.0**
