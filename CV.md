@@ -65,7 +65,7 @@ concurrently combining responsibility as an Internal tools Developer
 ## Other Activities
 * 2008-2011 -- Translator of few Open Source (GNU/Linux) software projects:
   * [newsbeuter](https://github.com/akrennmair/newsbeuter)
-  * gajim
-  * Cool-Reader (Android)
-  * GNU core utilities (a few fixes)
-  * pacman (package manager for ArchLinux)
+  * [gajim](https://gajim.org)
+  * [Cool Reader](https://play.google.com/store/apps/details?id=org.coolreader&hl=en)
+  * [GNU Coreutils](https://www.gnu.org/software/coreutils/coreutils.html)
+  * [pacman](https://www.archlinux.org/pacman/)
