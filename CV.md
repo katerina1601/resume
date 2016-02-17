@@ -19,7 +19,7 @@ concurrently combining responsibility as an Internal tools Developer
 * 2005-2009 -- _Bachelor_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
 
 ## Experience
-* 2013-Present -- **Application Administrator/Junior Internal Developer**, _Astound Commerce_, Kyiv.
+* 2013-Present -- **Application Administrator/Internal Developer**, _Astound Commerce_, Kyiv.
   * _Main responsibility: JIRA/Confluence/Crowd/Apex administration, creating reports for Oracle Apex. implementing integrations of internal tools with Atlassian Products (full time work):_
     * responsible for upgrading/maintenance app servers (Java) JIRA/Confluence/FishEye, Atlassian products
     * creating complex reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
