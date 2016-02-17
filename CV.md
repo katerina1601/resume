@@ -20,8 +20,8 @@ concurrently combining responsibility as an Internal tools Developer
 
 ## Experience
 * 2013-Present -- **Application Administrator/Internal Developer**, _Astound Commerce_, Kyiv.
-  * _Main responsibility: JIRA/Confluence/Crowd/Apex administration, creating reports for Oracle Apex. implementing integrations of internal tools with Atlassian Products (full time work):_
-    * responsible for upgrading/maintenance app servers (Java) JIRA/Confluence/FishEye, Atlassian products
+  * _Main responsibility: JIRA/Confluence/Crowd/Bitbucket/Apex administration, creating reports for Oracle Apex. implementing integrations of internal tools with Atlassian Products (full time work):_
+    * responsible for upgrading/maintenance app servers (Java) JIRA/Confluence/FishEye/Bitbucket Server, Atlassian products
     * creating complex reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
     * integrated Atlassian Crowd authentication to Oracle Apex (Languages used: PL-SQL)
     * integrated Atlassian Crowd authentication to Moodle (Languages used: PHP/SQL)
