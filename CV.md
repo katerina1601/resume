@@ -50,6 +50,7 @@ concurrently combining responsibility as an Internal tools Developer
 * Ukrainian -- _Fluent_ (Native)
 * Russian -- _Fluent_
 * English -- _Advanced_
+* German -- _Basic_
 
 ## Technical Skills
 * _Platforms_ -- Linux, OS X, Windows, BSD*
