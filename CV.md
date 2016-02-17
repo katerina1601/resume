@@ -9,6 +9,8 @@ concurrently combining responsibility as an Internal tools Developer
 (technologies used: SQL/Perl/PHP/PL-SQL).
 
 ## Education
+* 2014-2015 -- _Free Cource_, “Codecademy”. Subject: **Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy**
+* 2014-2015 -- _Free Cource_, “Codecademy”. Subject: **Learn the fundamentals of JavaScript, the programming language of the Web**
 * 2013-2013 -- _Certification_, “IBM Corporation”. Subject: **IBM Certified System Administrator WebSphere Commerce V7.0**
 * 2013-2013 -- _Distance Education_, “coursera.org”. Subject: **Learn to Program: Crafting Quality Code (Python)**
 * 2012-2012 -- _Distance Education_, “coursera.org”. Subject: **Learn to Program: The Fundamentals (Python)**
