@@ -39,8 +39,8 @@ concurrently combining responsibility as an Internal tools Developer
     * provided support/administration of diverse services running on all corporate physical servers/VMs
     * documented issues workflow using customer relation services as CRM/JIRA
     * provided up to date documentation for support and related departments in Confluence
-* 2011-2011 -- **Junior System Administrator**, _Elite-line_, Kramatorsk.
-  * _Basic configuration, administration and support Linux server (part-time work):_
+* 2011-2011 -- **System Administrator**, _Elite-line_, Kramatorsk.
+  * _Configuration, administration and support Linux server (part-time work):_
     * configured, administered and supported Linux server
     * supported users
     * connected users to the LAN/Internet
