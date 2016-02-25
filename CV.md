@@ -26,6 +26,7 @@ concurrently combining responsibility as an Internal tools Developer
     * integrated Atlassian Crowd authentication to Oracle Apex (Languages used: PL-SQL)
     * integrated Atlassian Crowd authentication to Moodle (Languages used: PHP/SQL)
     * implemented Crowd User/Groups manipulation script: [crowdclient](https://github.com/sevenfourk/crowdclient)
+    * maintaining digest/reporting tool for company-wide needs (Languages used: PHP)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_, Kyiv.
   * _Beside main responsibilities, mentored L1 and worked on complex issues. (full time work):_
     * provided support/administration of diverse services running on all corporate physical servers/VMs
