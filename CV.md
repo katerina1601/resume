@@ -1,11 +1,10 @@
 # Ivan Kovnatsky
 
 ## Summary
-Interested in constant growth. Eager to dig into problems and diverse issues.
-Working well by myself and also in a team. Have over 6+ years experience in
-Linux/UNIX support/administration and related services. 2+ years experience in
-administering Atlassian applications, 2+ years experience with Oracle Apex
-reporting tool. 2+ years experience with automation/scripting.
+Have over 6+ years experience in Linux/UNIX support/administration and related
+services. 2+ years experience in administering Atlassian applications, 2+ years
+experience with Oracle Apex reporting tool. 2+ years experience with
+automation/scripting.
 
 ## Education
 * 2014-2015 -- _Free Course_, “Codecademy”. Subject: **Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy**
