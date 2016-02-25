@@ -55,7 +55,6 @@ concurrently combining responsibility as an Internal tools Developer
 
 ## Technical Skills
 * _Platforms_ -- Linux, OS X, Windows, BSD*
-* _Networking_ -- Basic understanding of TCP/IP, UDP, ICMP
 * _Tools_ -- Vim, SSH, Git
 * _Monitoring Systems_ -- Zabbix, Nimbus, Nagios (support/administration)
 * _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
