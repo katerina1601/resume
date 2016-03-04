@@ -51,6 +51,7 @@ automation/scripting.
 * Russian -- _Fluent_
 * English -- _Advanced_
 * German -- _Basic_
+* Spanish -- _Basic_
 
 ## Technical Skills
 * _Platforms_ -- Linux, OS X, Windows, BSD*
