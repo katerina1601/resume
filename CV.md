@@ -39,12 +39,6 @@ automation/scripting.
     * provided support/administration of diverse services running on all corporate physical servers/VMs
     * documented issues workflow using customer relation services as CRM/JIRA
     * provided up to date documentation for support and related departments in Confluence
-* 2011-2011 -- **System Administrator**, _Elite-line_, Kramatorsk.
-  * _Configuration, administration and support Linux servers (part-time work):_
-    * configured, administered and supported Linux servers
-    * supported users
-    * connected users to the LAN/Internet
-    * worked on the expansion of the network, draw lines
 
 ## Languages
 * Ukrainian -- _Fluent_ (Native)
