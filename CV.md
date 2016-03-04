@@ -29,7 +29,8 @@ automation/scripting.
   * _Beside main responsibilities, mentored L1 and worked on complex issues. (full time work):_
     * provided support/administration of diverse services running on all corporate physical servers/VMs
     * administrated Intershop Enfinity, IBM WebSphere application servers
-    * administrated EasyAsk search engine, Zabbix, Nimbus
+    * administrated EasyAsk search engine
+    * administrated monitoring systems like: Zabbix, Nimbus
     * administrated JIRA/Confluence
 * 2011-2012 -- **L1 Support Engineer**, _SysIQ_, Kyiv.
   * _Provided uninterrupted 24/7 support to the customers’ hardware and software infrastructure in the area of e-commerce. (full time work):_
