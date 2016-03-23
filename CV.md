@@ -54,7 +54,7 @@ automation/scripting.
 * _Monitoring Systems_ -- Zabbix, Nimbus, Nagios (support/administration)
 * _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
 * _Databases_ -- Oracle; Limited experience with MySQL, DB2
-* _Languages_ -- Bash/Python/Perl/Ruby/SQL; PL-SQL/PHP/JavaScript/Lua/C (limited debugging)
+* _Languages_ -- Bash/Python/Perl/Ruby/PHP/SQL; PL-SQL/JavaScript/Lua/C (limited debugging)
 
 ## Other Activities
 * 2008-2011 -- Translator of few Open Source (GNU/Linux) software projects:
