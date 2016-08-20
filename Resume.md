@@ -11,7 +11,7 @@ automation/scripting.
 * 2005-2009 -- _Bachelor_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
 
 ## Experience
-* 2013-Present -- **Application Administrator/Internal Developer**, _Astound Commerce_
+* 2013-2016 -- **Application Administrator/Internal Developer**, _Astound Commerce_
   * _Main responsibility: JIRA/Confluence/Crowd/Bitbucket/Apex administration, creating reports for Oracle Apex. Implementing integrations of internal tools with Atlassian Products (full time work):_
     * responsible for upgrading/maintenance app servers JIRA/Confluence/FishEye/Bitbucket Server, Atlassian products
     * creating complex reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
