@@ -41,7 +41,7 @@ automation/scripting.
 * Russian -- _Fluent_
 
 ## Technical Skills
-* _Platforms_ -- Linux, OS X, Windows, BSD*
+* _Platforms_ -- Linux, macOS, Windows, BSD*
 * _Tools_ -- Vim, SSH, Git
 * _Monitoring Systems_ -- Zabbix, Nimbus (support/administration)
 * _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
