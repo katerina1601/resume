@@ -1,4 +1,4 @@
-# github-resume
+# resume
 
 Previously I had [my Resume](Resume.md) in [LaTeX](http://www.latex-project.org).  But
 since it's painful to do that on OS X (no normal package management and
