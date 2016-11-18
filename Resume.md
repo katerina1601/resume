@@ -21,7 +21,7 @@ automation/scripting.
     * maintaining digest/reporting tool for company-wide needs (Languages used: PHP)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
   * _Beside main responsibilities, mentored L1 and worked on complex issues. (full time work):_
-    * provided support/administration of diverse services running on all corporate physical servers/VMs
+    * provided support/administration of diverse services running on all corporate physical resources
     * administrated Intershop Enfinity, IBM WebSphere application servers
     * administrated EasyAsk search engine
     * administrated monitoring systems like: Zabbix, Nimbus
