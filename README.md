@@ -11,13 +11,12 @@ automation/scripting.
 
 ## Experience
 * 2013-2016 -- **Application Administrator/Internal Developer**, _Astound Commerce_
-  * _Main responsibility: JIRA/Confluence/Crowd/Bitbucket/Apex administration, creating reports for Oracle Apex. Implementing integrations of internal tools with Atlassian Products (full time work):_
-    * responsible for upgrading/maintenance app servers JIRA/Confluence/FishEye/Bitbucket Server, Atlassian products
-    * creating complex reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
+  * _Main responsibility: JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration (full time work):_
+    * was responsible for upgrading/maintenance Atlassian products apps
+    * created reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
     * integrated Atlassian Crowd authentication to Oracle Apex (Languages used: PL-SQL)
     * integrated Atlassian Crowd authentication to Moodle (Languages used: PHP/SQL)
     * implemented Crowd User/Groups manipulation script: [crowdclient](https://github.com/sevenfourk/crowdclient) (Languages used: Python)
-    * maintaining digest/reporting tool for company-wide needs (Languages used: PHP)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
   * _Beside main responsibilities, mentored L1 and worked on complex issues. (full time work):_
     * provided support/administration of diverse services running on all corporate physical resources
@@ -36,13 +35,13 @@ automation/scripting.
 
 ## Languages
 * Ukrainian -- _Fluent_ (Native)
-* English -- _Advanced_
-* Russian -- _Fluent_
+* English   -- _Advanced_
+* Russian   -- _Fluent_
 
-## Technical Skills
-* _Platforms_ -- Linux, macOS, Windows, BSD*
-* _Tools_ -- Vim, SSH, Git
-* _Monitoring Systems_ -- Zabbix, Nimbus (support/administration)
-* _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk
-* _Databases_ -- Oracle; Limited experience with MySQL, DB2
-* _Languages_ -- Bash/Python/Perl/Ruby/PHP/SQL
+## Skills
+* _Platforms_       -- Linux, macOS, Windows, BSD*
+* _Tools_           -- Vim, SSH, Git
+* _Monitoring_      -- Zabbix, Nimbus, Prometheus, Grafana, Amazon CloudWatch
+* _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
+* _Databases_       -- Oracle, MySQL, DB2
+* _Languages_       -- Bash, Python, Perl, Ruby, PHP, SQL
