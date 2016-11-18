@@ -7,8 +7,7 @@ experience with Oracle Apex reporting tool. 2+ years experience with
 automation/scripting.
 
 ## Education
-* 2009-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
-* 2005-2009 -- _Bachelor_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
+* 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
 
 ## Experience
 * 2013-2016 -- **Application Administrator/Internal Developer**, _Astound Commerce_
