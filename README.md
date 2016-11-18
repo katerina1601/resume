@@ -44,6 +44,6 @@ automation/scripting.
 * _Platforms_ -- Linux, macOS, Windows, BSD*
 * _Tools_ -- Vim, SSH, Git
 * _Monitoring Systems_ -- Zabbix, Nimbus (support/administration)
-* _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk (basic familiarity)
+* _Application Platforms_ -- JIRA/Confluence/Crowd/Bitbucket Server/FishEye; Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_ -- Oracle; Limited experience with MySQL, DB2
 * _Languages_ -- Bash/Python/Perl/Ruby/PHP/SQL
