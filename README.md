@@ -11,7 +11,7 @@ automation/scripting.
 
 ## Experience
 * 2013-2016 -- **Atlassian Apps Admin/Internal Developer**, _Astound Commerce_
-  * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration (full time work):_
+  * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
     * upgrading/maintenance Atlassian Apps
     * created reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
     * integrated Atlassian Crowd authentication to Oracle Apex (Languages used: PL-SQL)
@@ -19,14 +19,14 @@ automation/scripting.
     * implemented Crowd User/Groups manipulation script: [crowdclient](https://github.com/sevenfourk/crowdclient) (Languages used: Python)
     * last year led team of 6 members (Dev, QA, Admin)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
-  * _Mentored L1 and worked on complex issues (full time work):_
+  * _Mentored L1 and worked on complex issues:_
     * provided support/administration of diverse services running on all corporate physical resources
     * administrated Intershop Enfinity, IBM WebSphere application servers
     * administrated EasyAsk search engine
     * administrated monitoring systems like: Zabbix, Nimbus
     * administrated JIRA/Confluence
 * 2011-2012 -- **L1 Support Engineer**, _SysIQ_
-  * _24/7 support to the customers’ hardware and software infrastructure (full time work):_
+  * _24/7 support to the customers’ hardware and software infrastructure:_
     * troubleshooted system malfunctions
     * investigated and analyzed the root of problems
     * system monitoring
