@@ -1,10 +1,10 @@
 # Ivan Kovnatsky
 
 ## Summary
-Have over 6+ years experience in Linux/UNIX support/administration and related
-services. 2+ years experience in administering Atlassian applications, 2+ years
-experience with Oracle Apex reporting tool. 2+ years experience with
-automation/scripting.
+Experienced Linux admin, worked in different areas and got hands on diverse tools.
+Tightly worked with Atlassian Products. Love open source tools. Always eager to implement
+some custom solutions. Able to automate work. Have experience developing/scripting in
+popular interpreted programming languages.
 
 ## Education
 * 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
@@ -42,6 +42,7 @@ automation/scripting.
 ## Skills
 * _Platforms_       -- Linux, macOS, Windows, BSD*
 * _Tools_           -- Vim, SSH, Git
+* _Configuration_   -- Ansible
 * _Monitoring_      -- Zabbix, Nimbus, Prometheus, Grafana, Amazon CloudWatch
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
