@@ -6,9 +6,6 @@ Tightly worked with Atlassian Products. Always eager to implement some custom so
 Able to automate work. Have experience developing/scripting in popular interpreted
 programming languages.
 
-## Education
-* 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
-
 ## Experience
 * 2013-2016 -- **Atlassian Apps Admin/Internal Developer**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
@@ -34,7 +31,10 @@ programming languages.
     * documented issues workflow using customer relation services as CRM/JIRA
     * provided up to date documentation for support and related departments in Confluence
 
-## Natural Languages
+## Education
+* 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
+
+## Languages
 * Ukrainian -- _Fluent_ (Native)
 * English   -- _Advanced_
 * Russian   -- _Fluent_
@@ -46,4 +46,4 @@ programming languages.
 * _Monitoring_      -- Zabbix, Nimbus, Prometheus, Grafana, Amazon CloudWatch
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
-* _Languages_       -- Bash, Python, Perl, Ruby, PHP, SQL
+* _Programming_     -- Bash, Python, Perl, Ruby, PHP, SQL
