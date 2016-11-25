@@ -2,9 +2,9 @@
 
 ## Summary
 Experienced Linux admin, worked in different areas and got hands on diverse tools.
-Tightly worked with Atlassian Products. Love open source tools. Always eager to implement
-some custom solutions. Able to automate work. Have experience developing/scripting in
-popular interpreted programming languages.
+Tightly worked with Atlassian Products. Always eager to implement some custom solutions. 
+Able to automate work. Have experience developing/scripting in popular interpreted
+programming languages.
 
 ## Education
 * 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
@@ -34,7 +34,7 @@ popular interpreted programming languages.
     * documented issues workflow using customer relation services as CRM/JIRA
     * provided up to date documentation for support and related departments in Confluence
 
-## Languages
+## Natural Languages
 * Ukrainian -- _Fluent_ (Native)
 * English   -- _Advanced_
 * Russian   -- _Fluent_
