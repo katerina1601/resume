@@ -45,7 +45,7 @@ programming languages.
 * _Platforms_       -- Linux, macOS, Windows, BSD*
 * _Tools_           -- Vim, SSH, Git
 * _Configuration_   -- Ansible
-* _Monitoring_      -- Zabbix, Nimbus, Prometheus, Grafana, Amazon CloudWatch
+* _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, Zabbix, Nimbus
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
 * _Programming_     -- Bash, Python, Perl, Ruby, PHP, SQL
