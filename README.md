@@ -7,6 +7,8 @@ Able to automate work. Have experience developing/scripting in popular interpret
 programming languages.
 
 ## Experience
+* 2016-Present -- **DevOps Engineer**, _Luxoft_
+  * _Contractor at Western Digital:_
 * 2013-2016 -- **Atlassian Apps Admin/Internal Developer**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
     * upgrading/maintenance Atlassian Apps
