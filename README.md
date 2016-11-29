@@ -9,7 +9,7 @@ programming languages.
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
   * _Contractor at Western Digital:_
-    * prepared instructions for migration of Atlassian Apps to newer version
+    * prepared instructions for migration of Atlassian Apps to newer versions
     * configured monitoring/metrics/alerting solution using Prometheus/Grafana/netdata tools
 * 2013-2016 -- **Atlassian Apps Admin/Internal Developer**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
