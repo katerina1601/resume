@@ -7,8 +7,7 @@ Able to automate work. Have experience developing/scripting in popular interpret
 programming languages.
 
 ## Experience
-* 2016-Present -- **DevOps Engineer**, _Western Digital_
-  * _Contractor at Luxoft:_
+* 2016-Present -- **DevOps Engineer**, _Luxoft_
     * prepared instructions for migration of Atlassian Apps to newer versions
     * configured monitoring/metrics/alerting solution using Prometheus/Grafana/netdata tools
 * 2013-2016 -- **Atlassian Apps Admin/Developer**, _Astound Commerce_
