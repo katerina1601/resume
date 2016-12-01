@@ -11,7 +11,7 @@ programming languages.
   * _Contractor at Western Digital:_
     * prepared instructions for migration of Atlassian Apps to newer versions
     * configured monitoring/metrics/alerting solution using Prometheus/Grafana/netdata tools
-* 2013-2016 -- **Atlassian Apps Admin/Internal Developer**, _Astound Commerce_
+* 2013-2016 -- **Atlassian Apps Admin/Developer**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
     * upgrading/maintenance Atlassian Apps
     * created reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
