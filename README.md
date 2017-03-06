@@ -1,10 +1,10 @@
 # Ivan Kovnatsky
 
 ## Summary
-Experienced Linux admin, worked in different areas and got hands on diverse tools.
-Tightly worked with Atlassian Products. Always eager to implement some custom solutions.
-Able to automate work. Have experience developing/scripting in popular interpreted
-programming languages.
+Experienced systems engineer, worked in different areas and got hands on
+diverse tools. Tightly worked with Atlassian Products. Always eager to
+implement some new solutions. Able to automate work and make teams happy. Have
+experience developing/scripting in popular interpreted programming languages.
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
