@@ -12,6 +12,10 @@ experience developing/scripting in popular interpreted programming languages.
       * Atlassian Apps
       * Prometheus/Grafana/netdata
       * ELK Stack
+    * implementing web console (python/flask)
+      * internal services integrations
+      * admin services
+      * simple web page interface
 * 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
     * upgrading/maintenance Atlassian Apps
