@@ -56,5 +56,5 @@ experience developing/scripting in popular interpreted programming languages.
 * _Logs_            -- ELK Stack
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
-* _Tools_           -- Vim, SSH, Git, PyCharm
+* _Tools_           -- Vim, SSH, Git
 * _Programming_     -- Bash, Python, JavaScript, Perl, Ruby, PHP, SQL
