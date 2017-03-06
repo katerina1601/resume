@@ -9,8 +9,8 @@ experience developing/scripting in popular interpreted programming languages.
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
     * setting/configuring/maintaining:
-      * Atlassian Apps
-      * Prometheus/Grafana/netdata
+      * Atlassian Stack
+      * Monitoring Stack: Prometheus/Grafana/netdata
       * ELK Stack
     * implementing web console (python/flask)
       * internal services integrations
