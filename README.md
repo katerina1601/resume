@@ -46,9 +46,10 @@ experience developing/scripting in popular interpreted programming languages.
 
 ## Skills
 * _Platforms_       -- Linux, macOS, Windows, BSD*
-* _Tools_           -- Vim, SSH, Git
+* _Tools_           -- Vim, SSH, Git, PyCharm
 * _Configuration_   -- Ansible
-* _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, Zabbix, Nimbus
+* _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, netdata, Zabbix, Nimbus
+* _Log Management_  -- ELK Stack
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
-* _Programming_     -- Bash, Python, Perl, Ruby, PHP, SQL
+* _Programming_     -- Bash, Python, JavaScript, Perl, Ruby, PHP, SQL
