@@ -2,14 +2,16 @@
 
 ## Summary
 Experienced Linux admin, worked in different areas and got hands on diverse tools.
-Tightly worked with Atlassian Products. Always eager to implement some custom solutions. 
+Tightly worked with Atlassian Products. Always eager to implement some custom solutions.
 Able to automate work. Have experience developing/scripting in popular interpreted
 programming languages.
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
-    * prepared instructions for migration of Atlassian Apps to newer versions
-    * configured monitoring/metrics/alerting solution using Prometheus/Grafana/netdata tools
+    * setting/configuring/maintaining:
+      * Atlassian Apps
+      * Prometheus/Grafana/netdata
+      * ELK Stack
 * 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
     * upgrading/maintenance Atlassian Apps
