@@ -16,6 +16,7 @@ experience developing/scripting in popular interpreted programming languages.
       * internal services integrations
       * admin services
       * simple web page interface
+    * supporting dev team
 * 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
   * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
     * upgrading/maintenance Atlassian Apps
