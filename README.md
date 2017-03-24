@@ -12,7 +12,7 @@ experience developing/scripting in popular interpreted programming languages.
       * Atlassian Stack
       * Monitoring Stack: Prometheus/Grafana/netdata
       * ELK Stack
-    * implementing web console (python/flask)
+    * implementing web app (Python/Flask):
       * internal services integrations
       * admin services
       * simple web page interface
