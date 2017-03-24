@@ -53,7 +53,7 @@ experience developing/scripting in popular interpreted programming languages.
 * _Platforms_       -- Linux, macOS, Windows, BSD*
 * _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, netdata, Zabbix, Nimbus
 * _Configuration_   -- Ansible
-* _Logs_            -- ELK Stack
+* _Logs_            -- ELK Stack, SumoLogic
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
 * _Tools_           -- Vim, SSH, Git
