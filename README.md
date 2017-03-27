@@ -2,44 +2,34 @@
 
 ## Summary
 Experienced systems engineer, worked in different areas and got hands on
-diverse tools. Tightly worked with Atlassian Products. Always eager to
-implement some new solutions. Able to automate work and make teams happy. Have
-experience developing/scripting in popular interpreted programming languages.
+diverse tools. Tightly worked with Atlassian Products. Eager to implement new
+nice solutions. Able to automate work and make teams happy.
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
-    * setting/configuring/maintaining:
-      * Atlassian Stack
-      * Monitoring Stack: Prometheus/Grafana/netdata
-      * ELK Stack
-    * implementing web app (Python/Flask):
-      * internal services integrations
-      * admin services
-      * simple web page interface
-    * supporting dev team
+  * setting/configuring/maintaining:
+    * Atlassian Apps
+    * Monitoring: Prometheus/Grafana/netdata
+    * ELK
+  * implementing Python/Flask web app:
+    * developer assisting integrations
+    * admin services
+  * supporting dev team
 * 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
-  * _JIRA/Confluence/Crowd/Bitbucket/Oracle Apex administration:_
-    * upgrading/maintenance Atlassian Apps
-    * created reports on finance/auditing, email reporting (Languages used: SQL/PHP/Perl)
-    * integrated Atlassian Crowd authentication to Oracle Apex (Languages used: PL-SQL)
-    * integrated Atlassian Crowd authentication to Moodle (Languages used: PHP/SQL)
-    * implemented Crowd User/Groups manipulation script: [crowdclient](https://github.com/sevenfourk/crowdclient) (Languages used: Python)
-    * last year led team of 6 members (Dev, QA, Admin)
+  * upgraded/maintained Atlassian Apps
+  * developed analytical/other reports using SQL
+  * integrated/implemented Atlassian apps with other 3rd party services
+  * last year led team of 6 members (Dev, QA, Admin)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
-  * _Mentored L1 and worked on complex issues:_
-    * provided support/administration of diverse services running on all corporate physical resources
-    * administrated Intershop Enfinity, IBM WebSphere application servers
-    * administrated EasyAsk search engine
-    * administrated monitoring systems like: Zabbix, Nimbus
-    * administrated JIRA/Confluence
+  * admined eCommerce suites: Intershop Enfinity, IBM WebSphere
+  * EasyAsk Search Engine
+  * Monitoring systems: Zabbix, Nimbus
+  * Atlassian: JIRA/Confluence
 * 2011-2012 -- **L1 Support Engineer**, _SysIQ_
-  * _24/7 support to the customers’ hardware and software infrastructure:_
-    * troubleshooted system malfunctions
-    * investigated and analyzed the root of problems
-    * system monitoring
-    * provided support/administration of diverse services running on all corporate physical servers/VMs
-    * documented issues workflow using customer relation services as CRM/JIRA
-    * provided up to date documentation for support and related departments in Confluence
+  * troubleshooted system malfunctions
+  * investigated and analyzed the root of problems
+  * system monitoring
+  * documented issues workflow using customer relation services as CRM/JIRA
 
 ## Education
 * 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
@@ -53,7 +43,7 @@ experience developing/scripting in popular interpreted programming languages.
 * _Platforms_       -- Linux, macOS, Windows, BSD*
 * _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, netdata, Zabbix, Nimbus
 * _Configuration_   -- Ansible
-* _Logs_            -- ELK Stack, SumoLogic
+* _Logs_            -- ELK, SumoLogic
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
 * _Tools_           -- Vim, SSH, Git
