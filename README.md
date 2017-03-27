@@ -15,6 +15,7 @@ make teams happy.
     * developer assisting integrations
     * admin services
   * supporting dev team
+    * Jenkins
 * 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
   * upgraded/maintained Atlassian Apps
   * developed analytical/other reports using SQL
