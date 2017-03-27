@@ -24,7 +24,7 @@ make teams happy.
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
   * admined eCommerce suites: Intershop Enfinity, IBM WebSphere
   * EasyAsk Search Engine
-  * Monitoring systems: Zabbix, Nimbus
+  * monitoring systems: Zabbix, Nimbus
   * Atlassian: JIRA/Confluence
 * 2011-2012 -- **L1 Support Engineer**, _SysIQ_
   * troubleshooted system malfunctions
