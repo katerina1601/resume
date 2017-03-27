@@ -2,8 +2,8 @@
 
 ## Summary
 Experienced systems engineer, worked in different areas and got hands on
-diverse tools. Tightly worked with Atlassian Products. Eager to implement new
-nice solutions. Able to automate work and make teams happy.
+diverse tools. Eager to implement elegant solutions. Able to automate work and
+make teams happy.
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
