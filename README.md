@@ -47,5 +47,5 @@ make teams happy.
 * _Logs_            -- ELK, SumoLogic
 * _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
 * _Databases_       -- Oracle, MySQL, DB2
-* _Tools_           -- Vim, SSH, Git
+* _Tools_           -- Vim, Git
 * _Programming_     -- Bash, Python, JavaScript, Perl, Ruby, PHP, SQL
