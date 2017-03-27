@@ -29,7 +29,6 @@ nice solutions. Able to automate work and make teams happy.
   * troubleshooted system malfunctions
   * investigated and analyzed the root of problems
   * system monitoring
-  * documented issues workflow using customer relation services as CRM/JIRA
 
 ## Education
 * 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
