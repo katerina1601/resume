@@ -41,6 +41,7 @@ make teams happy.
 
 ## Skills
 * _Platforms_       -- Linux, macOS, Windows, BSD*
+* _Virtualization   -- Docker
 * _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, netdata, Zabbix, Nimbus
 * _Configuration_   -- Ansible
 * _Logs_            -- ELK, SumoLogic
