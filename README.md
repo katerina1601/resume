@@ -18,7 +18,7 @@ nice solutions. Able to automate work and make teams happy.
 * 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
   * upgraded/maintained Atlassian Apps
   * developed analytical/other reports using SQL
-  * integrated/implemented Atlassian apps with other 3rd party services
+  * implemented Atlassian apps custom integrations with other 3rd party services
   * last year led team of 6 members (Dev, QA, Admin)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
   * admined eCommerce suites: Intershop Enfinity, IBM WebSphere
