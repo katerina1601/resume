@@ -1,38 +1,36 @@
 # Ivan Kovnatsky
 
 ## Summary
-Experienced systems engineer, worked in different areas and got hands on
-diverse tools. Eager to implement elegant solutions. Able to automate work and
-make teams happy.
+Experienced systems engineer, keeping things simple, but not simpler.
+
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_
-  * setting/configuring/maintaining:
-    * Atlassian Apps
-    * Monitoring: Prometheus/Grafana/netdata
-    * ELK
-  * implementing Python/Flask web app:
-    * developer assisting integrations
-    * admin services
-  * supporting dev team
-    * Jenkins
-* 2013-2016 -- **Atlassian Apps Admin**, _Astound Commerce_
-  * upgraded/maintained Atlassian Apps
-  * developed analytical/other reports using SQL
-  * implemented Atlassian apps custom integrations with other 3rd party services
+  * working on Web Application (Python/Flask/JavaScript)
+  * working on analyzing company data (SumoLogic)
+  * maintaining developers CI pipeline (Jenkins)
+  * implemented Atlassian Apps stack (JIRA/Confluence/Bitbucket/Crowd)
+  * implemented Monitoring stack (Prometheus/Grafana/netdata)
+  * evaluated ELK stack for log analytics
+* 2013-2016 -- **DevOps | Atlassian Apps Admin**, _Astound Commerce_
+  * implemented Atlassian Apps stack (JIRA/Confluence/FishEye/Bitbucket/Crowd)
+  * implemented CI pipeline for shipping Atlassian JIRA custom developed add-ons (Jenkins)
+  * developed analytical/other reports (SQL)
+  * developed Atlassian Apps custom integrations with other services (PL-SQL/SQL/PHP)
   * last year led team of 6 members (Dev, QA, Admin)
 * 2012-2013 -- **L2 Support Engineer**, _SysIQ_
-  * admined eCommerce suites: Intershop Enfinity, IBM WebSphere
-  * EasyAsk Search Engine
-  * monitoring systems: Zabbix, Nimbus
-  * Atlassian: JIRA/Confluence
+  * maintained eCommerce suites (Intershop Enfinity, IBM WebSphere)
+  * maintained EasyAsk Search Engine
+  * maintained Zabbix, Nimbus
+  * maintained Atlassian Apps (JIRA/Confluence)
 * 2011-2012 -- **L1 Support Engineer**, _SysIQ_
-  * troubleshooted system malfunctions
+  * troubleshooted system malfunctions (eCommerce suites, Intershop Infinity, IBM WebSphere)
   * investigated and analyzed the root of problems
-  * system monitoring
+  * monitored systems (Zabbix, Nimbus)
 
 ## Education
-* 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy, Kramatorsk. Speciality: **Mechanical Engineering**
+* 2005-2010 -- _Specialist_, Donbas State Mechanical Engineering Academy,
+Kramatorsk. Speciality: **Mechanical Engineering**
 
 ## Languages
 * Ukrainian -- _Fluent_ (Native)
@@ -40,12 +38,6 @@ make teams happy.
 * Russian   -- _Fluent_
 
 ## Skills
-* _Platforms_       -- Linux, macOS, Windows, BSD*
-* _Virtualization_  -- Docker
-* _Monitoring_      -- Grafana, Prometheus, Amazon CloudWatch, netdata, Zabbix, Nimbus
-* _Configuration_   -- Ansible
-* _Logs_            -- ELK, SumoLogic
-* _Applications_    -- JIRA, Confluence, Crowd, Bitbucket Server, FishEye, Intershop Enfinity, IBM WebSphere, EasyAsk
-* _Databases_       -- Oracle, MySQL, DB2
-* _Tools_           -- Vim, Git
-* _Programming_     -- Bash, Python, JavaScript, Perl, Ruby, PHP, SQL
+Linux, JIRA, Bitbucket, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
+netdata, Zabbix, ELK, SumoLogic, Oracle, MySQL, vim, Visual Studio Code, git,
+bash, zsh, python, JavaScript, SQL, Ruby
