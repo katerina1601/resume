@@ -14,7 +14,7 @@ Experienced systems engineer, keeping things simple, but not simpler.
   * evaluated ELK stack for log analytics
 * 2013-2016 -- **DevOps | Atlassian Apps Admin**, _Astound Commerce_
   * implemented Atlassian Apps stack (JIRA/Confluence/FishEye/Bitbucket/Crowd)
-  * implemented CI pipeline for shipping Atlassian JIRA custom developed add-ons (Jenkins)
+  * implemented CI/CD pipeline for shipping Atlassian JIRA custom developed add-ons (Jenkins)
   * developed analytical/other reports (SQL)
   * developed Atlassian Apps custom integrations with other services (PL-SQL/SQL/PHP)
   * last year led team of 6 members (Dev, QA, Admin)
