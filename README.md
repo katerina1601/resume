@@ -38,6 +38,6 @@ Kramatorsk. Speciality: **Mechanical Engineering**
 * Russian   -- _Fluent_
 
 ## Skills
-Linux, JIRA, Bitbucket, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
+Linux, Atlassian, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
 netdata, Zabbix, ELK, SumoLogic, Oracle, MySQL, vim, Visual Studio Code, git,
 bash, zsh, python, JavaScript, SQL, Ruby
