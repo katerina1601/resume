@@ -1,4 +1,4 @@
-# [Ivan Kovnatsky](https://gitprint.com/sevenfourk/resume/blob/master/README.md?download "Follow link to download PDF")
+# [Ivan Kovnatsky](https://gitprint.com/sevenfourk/resume/blob/master/README.md?download "Click to download PDF")
 
 ## Summary
 Experienced systems engineer, keeping things simple, but not simpler.
