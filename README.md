@@ -1,4 +1,5 @@
 # [Ivan Kovnatsky](https://gitprint.com/sevenfourk/resume/blob/master/README.md?download "Click to download PDF")
+* gmail/skype: sevenfourk
 
 ## Summary
 Experienced systems engineer, keeping things simple, but not simpler.
