@@ -33,8 +33,8 @@ Experienced systems engineer, keeping things simple, but not simpler.
 Kramatorsk. Speciality: **Mechanical Engineering**
 
 ## Languages
-* Ukrainian -- _Fluent_ (Native)
 * English   -- _Advanced_
+* Ukrainian -- _Fluent_ (Native)
 
 ## Skills
 Linux, Atlassian, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
