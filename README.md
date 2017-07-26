@@ -35,7 +35,6 @@ Kramatorsk. Speciality: **Mechanical Engineering**
 ## Languages
 * Ukrainian -- _Fluent_ (Native)
 * English   -- _Advanced_
-* Russian   -- _Fluent_
 
 ## Skills
 Linux, Atlassian, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
