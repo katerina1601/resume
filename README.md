@@ -40,4 +40,4 @@ Kramatorsk. Speciality: **Mechanical Engineering**
 ## Skills
 Linux, Atlassian, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
 netdata, Zabbix, ELK, SumoLogic, Oracle, MySQL, vim, Visual Studio Code, git,
-bash, zsh, python, JavaScript, SQL, Ruby
+bash, python, JavaScript, SQL
