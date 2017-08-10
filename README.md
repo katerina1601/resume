@@ -9,13 +9,13 @@ Experienced systems engineer, keeping things simple, but not simpler.
 * 2016-Present -- **DevOps Engineer**, _Luxoft/Western Digital_
   * working on Web Application (Python/Flask/JavaScript)
   * working on analyzing company data (SumoLogic)
-  * maintaining developers CI pipeline (Jenkins)
+  * maintaining developers CI flow (Jenkins)
   * implemented Atlassian Apps stack (JIRA/Confluence/Bitbucket/Crowd)
   * implemented Monitoring stack (Prometheus/Grafana/netdata)
   * evaluated ELK stack for log analytics
 * 2013-2016 -- **DevOps Engineer | Atlassian Apps Engineer**, _Astound Commerce_
   * implemented Atlassian Apps stack (JIRA/Confluence/FishEye/Bitbucket/Crowd)
-  * implemented CI/CD pipeline for shipping Atlassian JIRA custom developed add-ons (Jenkins)
+  * implemented CI/CD flow for shipping Atlassian JIRA custom developed add-ons (Jenkins)
   * developed analytical/other reports (SQL)
   * developed Atlassian Apps custom integrations with other services (PL-SQL/SQL/PHP)
   * last year led team of 6 members (Dev, QA, Admin)
