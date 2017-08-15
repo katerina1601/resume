@@ -6,7 +6,7 @@ Experienced systems engineer, keeping things simple, but not simpler.
 
 
 ## Experience
-* 2016-Present -- **DevOps Engineer**, _Luxoft/Western Digital_
+* 2016-Present -- **DevOps Engineer**, _Luxoft_ 
   * working on Web Application (Python/Flask/JavaScript)
   * working on analyzing company data (SumoLogic)
   * maintaining developers CI flow (Jenkins)
