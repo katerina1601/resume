@@ -7,9 +7,9 @@ Experienced systems engineer, trying to keep things simple, but not simpler.
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_ 
-  * working on web application (Python/Flask/JavaScript)
-  * working on analyzing data (SumoLogic)
   * maintaining developers pipeline (Jenkins)
+  * working on analyzing data (SumoLogic)
+  * worked on web application (Python/Flask/JavaScript)
   * implemented Atlassian Apps stack (JIRA/Confluence/Bitbucket/Crowd)
   * implemented monitoring stack (Prometheus/Grafana/netdata)
   * evaluated ELK stack for log analytics
