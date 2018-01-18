@@ -2,16 +2,16 @@
 gmail/skype: sevenfourk
 
 ## Summary
-Experienced systems engineer, keeping things simple, but not simpler.
+Experienced systems engineer, trying to keep things simple, but not simpler.
 
 
 ## Experience
 * 2016-Present -- **DevOps Engineer**, _Luxoft_ 
-  * working on Web Application (Python/Flask/JavaScript)
-  * working on analyzing company data (SumoLogic)
+  * working on web application (Python/Flask/JavaScript)
+  * working on analyzing data (SumoLogic)
   * maintaining developers pipeline (Jenkins)
   * implemented Atlassian Apps stack (JIRA/Confluence/Bitbucket/Crowd)
-  * implemented Monitoring stack (Prometheus/Grafana/netdata)
+  * implemented monitoring stack (Prometheus/Grafana/netdata)
   * evaluated ELK stack for log analytics
 * 2013-2016 -- **DevOps Engineer | Atlassian Apps Engineer**, _Astound Commerce_
   * implemented Atlassian Apps stack (JIRA/Confluence/FishEye/Bitbucket/Crowd)
