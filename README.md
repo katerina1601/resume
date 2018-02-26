@@ -38,6 +38,6 @@ Kramatorsk. Speciality: **Mechanical Engineering**
 * Ukrainian -- _Fluent_ (Native)
 
 ## Skills
-Linux, Atlassian, ansible, docker, Grafana, Prometheus, AWS CloudWatch,
+Linux, Atlassian, ansible, Jenkins, docker, Grafana, Prometheus, AWS CloudWatch,
 netdata, Zabbix, ELK, SumoLogic, Oracle, MySQL, vim, Visual Studio Code, git,
 bash, python, JavaScript, SQL
