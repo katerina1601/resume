@@ -12,7 +12,6 @@ Experienced systems engineer, trying to keep things simple, but not simpler.
   * worked on web application (Python/Flask/JavaScript)
   * implemented Atlassian Apps stack (JIRA/Confluence/Bitbucket/Crowd)
   * implemented monitoring stack (Prometheus/Grafana/netdata)
-  * evaluated ELK stack for log analytics
 * 2013-2016 -- **DevOps Engineer | Atlassian Apps Engineer**, _Astound Commerce_
   * implemented Atlassian Apps stack (JIRA/Confluence/FishEye/Bitbucket/Crowd)
   * implemented pipeline for shipping Atlassian JIRA custom developed add-ons (Jenkins)
@@ -39,4 +38,4 @@ Kramatorsk. Speciality: **Mechanical Engineering**
 
 ## Skills
 Linux, Atlassian, ansible, docker, Grafana, Prometheus, AWS, netdata, Zabbix,
-ELK, SumoLogic, Oracle, MySQL, vim, git, bash, python, JavaScript, SQL
+SumoLogic, Oracle, MySQL, vim, git, bash, python, JavaScript, SQL
