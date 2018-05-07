@@ -1,4 +1,4 @@
-# [Ivan Kovnatsky]
+# Ivan Kovnatsky
 gmail/skype: sevenfourk
 
 ## Summary
