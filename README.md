@@ -1,4 +1,4 @@
-# [Ivan Kovnatsky](https://gitprint.com/sevenfourk/resume/blob/master/README.md?download "Click to download PDF")
+# [Ivan Kovnatsky]
 gmail/skype: sevenfourk
 
 ## Summary
